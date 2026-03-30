@@ -18,17 +18,17 @@
 ---
 
 ## 🚀 About Me  
-- [span_2](start_span)🔭 **AI Training:** Evaluating 1,000+ AI responses for accuracy and coherence[span_2](end_span).
-- [span_3](start_span)[span_4](start_span)⚙️ **Vision Tech:** Built **Plate Vision**, achieving 94% detection accuracy for real-time surveillance[span_3](end_span)[span_4](end_span).
-- [span_5](start_span)🧠 **Data Engineering:** Engineered **Cine Vault**, increasing SQL processing speed by 50%[span_5](end_span).
-- [span_6](start_span)🎓 **Education:** Final year B.Tech in Computer Science at **Lovely Professional University**[span_6](end_span).
+- [span_0](start_span)[span_1](start_span)🔭 **AI Training:** Evaluating 1,000+ AI responses for accuracy and coherence[span_0](end_span)[span_1](end_span).
+- [span_2](start_span)⚙️ **Vision Tech:** Built **Plate Vision**, achieving 94% detection accuracy for real-time surveillance[span_2](end_span).
+- [span_3](start_span)🧠 **Data Engineering:** Engineered **Cine Vault**, increasing SQL processing speed by 50%[span_3](end_span).
+- [span_4](start_span)🎓 **Education:** Pursuing B.Tech in Computer Science at **Lovely Professional University**[span_4](end_span).
 - ⚡ **Fun Fact:** I find evening walks as "healing" as a 0-error deployment.
 
 ---
 
 ## 🧠 Tech Stack  
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Programming & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,flask,dotnet&theme=dark" />
 </p>
@@ -48,9 +48,9 @@
 ---
 
 ## ⚙️ Core Fundamentals & Certifications
-- **[span_7](start_span)Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_7](end_span).
-- **[span_8](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_8](end_span).
-- **[span_9](start_span)Certifications:** Cloud Computing (IIT Kharagpur), DSA (GFG), Generative AI (Coursera)[span_9](end_span).
+- **[span_5](start_span)Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_5](end_span).
+- **[span_6](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_6](end_span).
+- **[span_7](start_span)Certifications:** Cloud Computing (NPTEL), DSA (GFG), Generative AI (Coursera)[span_7](end_span).
 
 ---
 

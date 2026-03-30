@@ -18,29 +18,31 @@
 ---
 
 ## 🚀 About Me  
-- [span_0](start_span)🔭 **Freelance AI Trainer:** Refining 1,000+ AI-generated responses for NLP tasks[span_0](end_span).
-- [span_1](start_span)[span_2](start_span)⚙️ **Cloud & DevOps:** Architecting automated surveillance and streaming platforms on **AWS**[span_1](end_span)[span_2](end_span).
-- [span_3](start_span)🧠 **Project Highlight:** Built **Plate Vision**, achieving 94% accuracy in real-time license plate extraction[span_3](end_span).
-- [span_4](start_span)[span_5](start_span)⚡ **Efficiency:** Boosted response quality by 40% and reduced database redundancy by 25%[span_4](end_span)[span_5](end_span).
-- 💬 **Ask me about:** Python, SQL, Cloud Architecture, or why I find evening walks as "healing" as clean code.
+- [span_0](start_span)🔭 **Freelance AI Trainer:** Refined 1,000+ AI responses for NLP tasks, boosting quality by 40%[span_0](end_span).
+- [span_1](start_span)[span_2](start_span)⚙️ **Vision Systems:** Optimized **Plate Vision** to 94% accuracy with 45+ FPS real-time processing[span_1](end_span)[span_2](end_span).
+- [span_3](start_span)🧠 **Data Architect:** Engineered **Cine Vault** backend, increasing SQL processing speed by 50%[span_3](end_span).
+- [span_4](start_span)🌱 **Learning:** Deep diving into Terraform & Kubernetes to complement my **AWS** skills[span_4](end_span).
+- ⚡ **Fun Fact:** I find evening walks as "healing" as a 0-error deployment.
 
 ---
 
 ## 🧠 Tech Stack  
 
-### 👨‍💻 Programming & Web Frameworks
+### 👨‍💻 Programming & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,flask,dotnet&theme=dark" />
 </p>
-- **[span_6](start_span)Languages:** Python, Java[span_6](end_span)
-- **[span_7](start_span)Web Frameworks:** Flask, ASP.NET (Fundamentals)[span_7](end_span)
+
+- **[span_5](start_span)Languages:** Python, Java[span_5](end_span)
+- **[span_6](start_span)Web Frameworks:** Flask, ASP.NET (Fundamentals)[span_6](end_span)
 
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,bash&theme=dark" />
 </p>
-- **[span_8](start_span)AWS Services:** EC2, S3, VPC, IAM[span_8](end_span)
-- **[span_9](start_span)Tools:** Docker, Git, GitHub Actions, Linux, Shell Scripting[span_9](end_span)
+
+- **[span_7](start_span)AWS Services:** EC2, S3, VPC, IAM[span_7](end_span)
+- **[span_8](start_span)Tools:** Docker, Git, GitHub Actions, Linux, Shell Scripting[span_8](end_span)
 
 ### 📊 Databases & Libraries
 <p>
@@ -48,12 +50,15 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-- **[span_10](start_span)[span_11](start_span)Databases:** SQL, MySQL, MongoDB, SQLite[span_10](end_span)[span_11](end_span)
-- **[span_12](start_span)[span_13](start_span)Libraries:** Pandas, NumPy, OpenCV[span_12](end_span)[span_13](end_span)
 
-### ⚙️ Core Fundamentals & Methodologies
-- **[span_14](start_span)CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_14](end_span)
-- **[span_15](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_15](end_span)
+- **[span_9](start_span)Databases:** SQL, MySQL, MongoDB, SQLite[span_9](end_span)
+- **[span_10](start_span)Libraries:** Pandas, NumPy, OpenCV[span_10](end_span)
+
+---
+
+## ⚙️ Core Fundamentals
+- **[span_11](start_span)CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_11](end_span)
+- **[span_12](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_12](end_span)
 
 ---
 
@@ -69,11 +74,6 @@
 </p>
 
 ---
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Pranav334&icon=5&color=6" alt="Views" />

@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Pranav&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+%26+Backend+Engineer;AWS+%26+DevOps+Enthusiast;AI+Trainer+%26+Prompt+Engineer;Turning+Ideas+Into+Deployed+Projects" alt="Typing SVG" />
-</h3>
+<h1 align="center">Hi 👋, I'm Pranav Prakash</h1>
+<h3 align="center">🚀 Cloud & Backend Enthusiast | AWS | DevOps | AI Projects</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pranavprakash23">
@@ -18,55 +13,71 @@
 ---
 
 ## 🚀 About Me  
-- [span_0](start_span)[span_1](start_span)🔭 **AI Training:** Evaluating 1,000+ AI responses for accuracy and coherence[span_0](end_span)[span_1](end_span).
-- [span_2](start_span)⚙️ **Vision Tech:** Built **Plate Vision**, achieving 94% detection accuracy for real-time surveillance[span_2](end_span).
-- [span_3](start_span)🧠 **Data Engineering:** Engineered **Cine Vault**, increasing SQL processing speed by 50%[span_3](end_span).
-- [span_4](start_span)🎓 **Education:** Pursuing B.Tech in Computer Science at **Lovely Professional University**[span_4](end_span).
-- ⚡ **Fun Fact:** I find evening walks as "healing" as a 0-error deployment.
+- 🔭 Building **cloud-based scalable applications on AWS**  
+- ⚙️ Exploring **DevOps pipelines & deployment automation**  
+- 🤝 Open to **collaborations in Cloud + Full Stack + AI**  
+- 🌱 Currently diving deep into **Docker, CI/CD & Cloud Architecture**  
+- 💬 Ask me about **Python, SQL, Cloud & Backend Development**  
+- ⚡ I love turning ideas into **live deployed projects**
 
 ---
 
 ## 🧠 Tech Stack  
 
-### 👨‍💻 Programming & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,flask,dotnet&theme=dark" />
-</p>
+### 👨‍💻 Languages & Frameworks  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,bash&theme=dark" />
-</p>
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white) 
+![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 
+![VPC](https://img.shields.io/badge/VPC-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![IAM](https://img.shields.io/badge/IAM-%23DD344C.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![CI/CD](https://img.shields.io/badge/CI/CD-%23007ACC.svg?style=for-the-badge)
 
-### 📊 Databases & AI Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data & AI  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%2300FFFF.svg?style=for-the-badge) 
+![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-%2300599C.svg?style=for-the-badge)
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav334&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav334&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav334&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 ---
 
-## ⚙️ Core Fundamentals & Certifications
-- **[span_5](start_span)Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_5](end_span).
-- **[span_6](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_6](end_span).
-- **[span_7](start_span)Certifications:** Cloud Computing (NPTEL), DSA (GFG), Generative AI (Coursera)[span_7](end_span).
-
----
-
-## 📊 GitHub Performance  
-
+## ✨ Dev Quote  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav334&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav334&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav334&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
+## 👀 Profile Views  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Pranav334&icon=5&color=6" alt="Views" />
+  <img src="https://visitcount.itsvg.in/api?id=Pranav334&icon=5&color=6"/>
 </p>

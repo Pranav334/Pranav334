@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+%26+Backend+Engineer;AWS+%26+DevOps+Enthusiast;AI+%26+ML+Explorer;Turning+Ideas+Into+Deployed+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+%26+Backend+Engineer;AWS+%26+DevOps+Enthusiast;AI+Trainer+%26+Prompt+Engineer;Turning+Ideas+Into+Deployed+Projects" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -18,45 +18,54 @@
 ---
 
 ## 🚀 About Me  
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav334&theme=tokyonight&layout=compact&hide_border=true" />
-
-- 🔭 **Building:** Scalable, cloud-native apps on **AWS**.
-- ⚙️ **DevOps:** Automating everything with **GitHub Actions** & **Jenkins**.
-- 🧠 **AI/ML:** Training **YOLOv8** models and building computer vision APIs.
-- 🌱 **Learning:** Deep diving into Terraform & Kubernetes.
-- 💬 **Ask me about:** Python, Cloud Architecture, or psychology.
-- ⚡ **Vibe:** Evening walks and 0-error deployments.
+- [span_0](start_span)🔭 **Freelance AI Trainer:** Refining 1,000+ AI-generated responses for NLP tasks[span_0](end_span).
+- [span_1](start_span)[span_2](start_span)⚙️ **Cloud & DevOps:** Architecting automated surveillance and streaming platforms on **AWS**[span_1](end_span)[span_2](end_span).
+- [span_3](start_span)🧠 **Project Highlight:** Built **Plate Vision**, achieving 94% accuracy in real-time license plate extraction[span_3](end_span).
+- [span_4](start_span)[span_5](start_span)⚡ **Efficiency:** Boosted response quality by 40% and reduced database redundancy by 25%[span_4](end_span)[span_5](end_span).
+- 💬 **Ask me about:** Python, SQL, Cloud Architecture, or why I find evening walks as "healing" as clean code.
 
 ---
 
 ## 🧠 Tech Stack  
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Programming & Web Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,flask,dotnet&theme=dark" />
 </p>
+- **[span_6](start_span)Languages:** Python, Java[span_6](end_span)
+- **[span_7](start_span)Web Frameworks:** Flask, ASP.NET (Fundamentals)[span_7](end_span)
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,bash&theme=dark" />
 </p>
+- **[span_8](start_span)AWS Services:** EC2, S3, VPC, IAM[span_8](end_span)
+- **[span_9](start_span)Tools:** Docker, Git, GitHub Actions, Linux, Shell Scripting[span_9](end_span)
 
-### 📊 Data & AI
+### 📊 Databases & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+- **[span_10](start_span)[span_11](start_span)Databases:** SQL, MySQL, MongoDB, SQLite[span_10](end_span)[span_11](end_span)
+- **[span_12](start_span)[span_13](start_span)Libraries:** Pandas, NumPy, OpenCV[span_12](end_span)[span_13](end_span)
+
+### ⚙️ Core Fundamentals & Methodologies
+- **[span_14](start_span)CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Computer Networks, Operating Systems[span_14](end_span)
+- **[span_15](start_span)Methodologies:** Agile, SDLC, REST API (Basics)[span_15](end_span)
 
 ---
 
-## 📊 Activity & Stats  
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav334&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav334&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav334&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav334&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav334&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav334&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
